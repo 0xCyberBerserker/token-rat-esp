@@ -123,7 +123,11 @@ Piensa menos en empaquetado. Construye más.
 
 [Explore codex-ui-linux-port](https://github.com/0xCyberBerserker/codex-ui-linux-port)
 
-## License
+## Créditos
+
+Icono: PNG generado por el usuario y editado en GIMP.
+
+## Licencia
 
 Código y texto de este repositorio: MIT.
 

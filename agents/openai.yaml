@@ -1,0 +1,10 @@
+interface:
+  display_name: "token-rat-esp"
+  short_description: "Spanish token-saving skill"
+  icon_small: "./assets/icon.png"
+  icon_large: "./assets/icon.png"
+  brand_color: "#111827"
+  default_prompt: "Use $token-rat-esp to answer in concise technical Spanish with minimal useful output."
+
+policy:
+  allow_implicit_invocation: true
