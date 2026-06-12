@@ -115,10 +115,6 @@ Piensa menos en empaquetado. Construye más.
 
 [Explore codex-ui-linux-port](https://github.com/0xCyberBerserker/codex-ui-linux-port)
 
-## Credits
-
-Icono: generado con ChatGPT por el usuario.
-
 ## License
 
 Código y texto de este repositorio: MIT.
