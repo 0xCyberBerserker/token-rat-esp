@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/icon.png" alt="token-rat-esp icon" width="96">
+  <img src="assets/icon.png" alt="token-rat-esp icon" width="128">
 </p>
 
 # token-rat-esp
