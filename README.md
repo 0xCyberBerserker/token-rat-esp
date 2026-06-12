@@ -44,13 +44,17 @@ Rutas típicas:
 
 ## Cómo activarla
 
+### UI
+
 Usa el nombre de la skill en la petición:
 
 ```text
 /skill token-rat-esp
 ```
 
-O pide directamente:
+### CLI
+
+Pide el modo en texto plano:
 
 - `modo rata`
 - `tokens mínimos`
@@ -59,8 +63,17 @@ O pide directamente:
 
 ## Ejemplo
 
+### UI
+
 ```text
 /skill token-rat-esp
+Arregla este bug y dame solo el patch mínimo.
+```
+
+### CLI
+
+```text
+token-rat-esp
 Arregla este bug y dame solo el patch mínimo.
 ```
 
