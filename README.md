@@ -45,6 +45,27 @@ Rutas típicas:
 - `~/.codex/skills/`
 - tu directorio de skills de Claude, si las espejas allí
 
+## Integración automática
+
+La skill ya queda preparada para auto-discovery en Codex si está instalada en `~/.codex/skills/token-rat-esp`.
+
+Además, incluye `agents/openai.yaml` con:
+
+- `policy.allow_implicit_invocation: true`
+- `default_prompt` para sugerir su uso implícito
+
+Eso ayuda a que Codex la tenga disponible sin invocarla siempre a mano.
+
+Si quieres usarla casi siempre dentro de un repo concreto, añade una regla breve en `AGENTS.md`:
+
+```md
+Usa token-rat-esp por defecto para tareas de coding normales.
+Responde en español técnico claro, con output mínimo útil.
+Prioriza patch pequeño, prueba mínima y cero relleno.
+```
+
+Eso no sustituye la skill: la refuerza y la vuelve parte del comportamiento por defecto del proyecto.
+
 ## Cómo activarla
 
 ### UI
