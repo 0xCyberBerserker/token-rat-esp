@@ -60,6 +60,7 @@ Pide el modo en texto plano:
 - `tokens mínimos`
 - `solo patch`
 - `no expliques`
+- `no seas plasta`
 
 ## Ejemplo
 
@@ -74,6 +75,13 @@ Arregla este bug y dame solo el patch mínimo.
 
 ```text
 token-rat-esp
+Arregla este bug y dame solo el patch mínimo.
+```
+
+También vale:
+
+```text
+no seas plasta
 Arregla este bug y dame solo el patch mínimo.
 ```
 
