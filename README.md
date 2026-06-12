@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/icon.svg" alt="token-rat-esp icon" width="96">
+  <img src="assets/icon.png" alt="token-rat-esp icon" width="96">
 </p>
 
 # token-rat-esp
@@ -85,7 +85,7 @@ token-rat-esp/
 ├── LICENSE
 ├── .gitignore
 └── assets/
-    └── icon.svg
+    └── icon.png
 ```
 
 ## Also from this toolbox
@@ -104,7 +104,7 @@ Think less about packaging. Spend more time building.
 
 ## Credits
 
-Icon: original SVG created for this repository.
+Icon: PNG asset provided by the user.
 
 ## License
 
