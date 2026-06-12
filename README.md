@@ -19,64 +19,64 @@
 
 `token-rat-esp` es una skill para pedir respuestas cortas, técnicas y útiles. Menos ruido. Más patch. Cero humo.
 
-## What it does
+## Qué hace
 
-- Forces a compact response style.
-- Keeps Spanish as the base language.
-- Leaves technical terms in English when that is clearer.
-- Pushes for small patches and minimal scope.
+- Fuerza respuestas compactas.
+- Mantiene el español como base.
+- Deja los términos técnicos en inglés cuando aclaran más.
+- Empuja a patches pequeños y scope mínimo.
 
-## What it is for
+## Para qué sirve
 
-- Fast code edits.
-- Tight debugging.
-- Minimal review notes.
-- Short operational answers.
+- Cambios de código rápidos.
+- Debugging ajustado.
+- Notas de review mínimas.
+- Respuestas operativas cortas.
 
-## Install
+## Instalación
 
-Copy the `token-rat-esp/` folder into your Codex skills path.
+Copia la carpeta `token-rat-esp/` dentro de la ruta de skills de Codex.
 
-Typical locations:
+Rutas típicas:
 
 - `~/.codex/skills/`
-- your Claude skill directory, if you mirror skills there
+- tu directorio de skills de Claude, si las espejas allí
 
-## Activate it
+## Cómo activarla
 
-Use the skill name in the request:
+Usa el nombre de la skill en la petición:
 
 ```text
 /skill token-rat-esp
 ```
 
-Or ask for:
+O pide directamente:
 
 - `modo rata`
 - `tokens mínimos`
 - `solo patch`
 - `no expliques`
 
-## Example
+## Ejemplo
 
 ```text
 /skill token-rat-esp
 Arregla este bug y dame solo el patch mínimo.
 ```
 
-Expected style:
+Salida esperada:
 
 ```text
 Hecho.
 
 Tocado:
-- `src/foo.ts`: fixed null check
+- `src/foo.ts`: null check corregido
 
 Prueba:
 `pnpm test foo`
 ```
 
-## File layout
+## Estructura
 
 ```text
 token-rat-esp/
@@ -88,28 +88,28 @@ token-rat-esp/
     └── icon.png
 ```
 
-## Also from this toolbox
+## También en esta caja de herramientas
 
-Working with Codex on Linux?
+¿Trabajas con Codex en Linux?
 
-Take a look at `codex-ui-linux-port`: an unofficial Linux packaging automation project for Codex UI.
+Mira `codex-ui-linux-port`: un proyecto unofficial de Linux packaging automation para Codex UI.
 
-It is built for people who want a cleaner Linux desktop workflow around Codex UI, with package-friendly structure and release automation.
+Está pensado para quien quiere un desktop workflow más limpio alrededor de Codex UI, con estructura package-friendly y release automation.
 
-Different tool, same philosophy:
+Herramienta distinta, misma filosofía:
 
-Think less about packaging. Spend more time building.
+Piensa menos en empaquetado. Construye más.
 
 [Explore codex-ui-linux-port](https://github.com/0xCyberBerserker/codex-ui-linux-port)
 
 ## Credits
 
-Icon: PNG asset provided by the user.
+Icono: asset PNG proporcionado por el usuario.
 
 ## License
 
-Code and text in this repository are MIT.
+Código y texto de este repositorio: MIT.
 
 ## Safety note
 
-This repository is public and contains only public content.
+Este repositorio es público y solo contiene contenido público.
