@@ -20,6 +20,8 @@
 
 `token-rat-esp` es una skill para pedir respuestas cortas, técnicas y útiles. Menos ruido. Más patch. Cero humo.
 
+No es un RAT. Es una rata de tokens: una skill para ahorrar output en Codex.
+
 ## Qué hace
 
 - Fuerza respuestas compactas.

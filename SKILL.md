@@ -1,6 +1,6 @@
 ---
 name: token-rat-esp
-description: Aggressive token and output minimization for Codex and Claude. Use when the user wants concise technical Spanish, minimal useful output, small patches, and strict scope control.
+description: Aggressive token and output minimization for coding agents. Use when the user wants concise technical Spanish, minimal useful output, small patches, and strict scope control.
 ---
 
 # token-rat-esp
@@ -90,7 +90,7 @@ Archivo:
 Patch:
 Prueba:
 
-Nothing else.
+Nothing else, except one-line safety warnings before destructive actions.
 
 ## 7. Patch rules
 
