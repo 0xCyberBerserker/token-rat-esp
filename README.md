@@ -14,6 +14,8 @@
 ![KISS](https://img.shields.io/badge/KISS-approved-orange?style=flat-square)
 ![Not malware](https://img.shields.io/badge/Not%20malware-just%20token%20frugal-red?style=flat-square)
 
+Spanish Codex skill for shorter answers, cleaner patches and token-efficient developer workflows.
+
 ¿Cansado de que Codex te escriba una novela para tocar tres líneas?
 
 ¿Tu output se bebe los créditos como una rata en buffet libre?

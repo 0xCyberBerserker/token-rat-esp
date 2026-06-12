@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="640" viewBox="0 0 1280 640" role="img" aria-labelledby="title desc">
+  <title id="title">token-rat-esp social preview</title>
+  <desc id="desc">token-rat-esp menos ruido mas patch cero humo Spanish Codex skill</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="55%" stop-color="#111827"/>
+      <stop offset="100%" stop-color="#1f2937"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="640" fill="url(#bg)"/>
+  <circle cx="1100" cy="120" r="160" fill="#f59e0b" fill-opacity="0.10"/>
+  <circle cx="180" cy="520" r="220" fill="#22c55e" fill-opacity="0.08"/>
+  <text x="96" y="220" fill="#f8fafc" font-family="DejaVu Sans, Arial, sans-serif" font-size="88" font-weight="700">token-rat-esp</text>
+  <text x="96" y="316" fill="#fbbf24" font-family="DejaVu Sans, Arial, sans-serif" font-size="40" font-weight="600">menos ruido · más patch · cero humo</text>
+  <text x="96" y="388" fill="#cbd5e1" font-family="DejaVu Sans, Arial, sans-serif" font-size="36">Spanish Codex skill</text>
+  <rect x="96" y="450" width="220" height="56" rx="16" fill="#111827" stroke="#334155"/>
+  <text x="128" y="486" fill="#86efac" font-family="DejaVu Sans, Arial, sans-serif" font-size="28" font-weight="700">MODO RATA</text>
+</svg>
