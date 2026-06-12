@@ -117,7 +117,7 @@ Piensa menos en empaquetado. Construye más.
 
 ## Credits
 
-Icono: asset PNG proporcionado por el usuario.
+Icono: generado con ChatGPT por el usuario.
 
 ## License
 
