@@ -12,6 +12,7 @@
 ![Language](https://img.shields.io/badge/Language-Spanish%20technical-blue?style=flat-square)
 ![Output](https://img.shields.io/badge/Output-token%20efficient-green?style=flat-square)
 ![KISS](https://img.shields.io/badge/KISS-approved-orange?style=flat-square)
+![Not malware](https://img.shields.io/badge/Not%20malware-just%20token%20frugal-red?style=flat-square)
 
 ¿Cansado de que Codex te escriba una novela para tocar tres líneas?
 
