@@ -24,6 +24,8 @@ Spanish Codex skill for shorter answers, cleaner patches and token-efficient dev
 
 No es un RAT. Es una rata de tokens: una skill para ahorrar output en Codex.
 
+También funciona con Gemini por CLI como prompt de trabajo compacto.
+
 ## Qué hace
 
 - Fuerza respuestas compactas.
@@ -46,6 +48,8 @@ Rutas típicas:
 
 - `~/.codex/skills/`
 - tu directorio de skills de Claude, si las espejas allí
+
+Si trabajas con Gemini por CLI, puedes reutilizar `SKILL.md` como base instruction o prompt persistente de tu flujo.
 
 ## Integración automática
 
@@ -88,6 +92,15 @@ Pide el modo en texto plano:
 - `no expliques`
 - `no seas plasta`
 
+### Gemini CLI
+
+Usa el contenido de `SKILL.md` como instrucción persistente o arranque de sesión, y luego trabaja en texto plano:
+
+```text
+token-rat-esp
+Arregla este bug con output mínimo.
+```
+
 ## Ejemplo
 
 ### UI
@@ -108,6 +121,13 @@ También vale:
 
 ```text
 no seas plasta
+Arregla este bug y dame solo el patch mínimo.
+```
+
+### Gemini CLI
+
+```text
+Usa token-rat-esp como regla de respuesta.
 Arregla este bug y dame solo el patch mínimo.
 ```
 
